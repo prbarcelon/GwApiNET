@@ -1,0 +1,26 @@
+{
+  "retrieve_time": "2013-08-01 09:24:55 GMT",
+  "type": "world",
+  "match_id": "1-1",
+  "name": "Green Borderlands",
+  "map_id": 2,
+  "map_owner_id": 1019,
+  "map_owner_name": "Blackgate",
+  "objectives": {
+    "41": {
+      "id": 41,
+      "name": "Shadaran Hills",
+      "points": 25,
+      "capture_time": "2013-08-01 07:19:26 GMT",
+      "time_held": "0:02:05:29",
+      "current_owner": {
+        "world_id": 1019,
+        "name": "Blackgate"
+      },
+      "previous_owner": {
+        "world_id": 1013,
+        "name": "Sanctum of Rall"
+      }
+    }
+  }
+}

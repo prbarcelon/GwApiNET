@@ -1,0 +1,128 @@
+{
+  "retrieve_time": "2013-08-03 06:46:15 GMT",
+  "type": "all",
+  "1-1": {
+    "match_id": "1-1",
+    "0": {
+      "name": "Red Borderlands",
+      "map_id": 0,
+      "objectives": {
+        "32": {
+          "id": 32,
+          "name": "Etheron Hills",
+          "points": 25,
+          "capture_time": "2013-08-03 06:34:24 GMT",
+          "time_held": "0:00:11:51",
+          "current_guild": {
+            "id": "5830D2B2-3886-46EA-A516-861A5C9382D0",
+            "name": "Nocturnal [NOC]",
+            "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/5830D2B2-3886-46EA-A516-861A5C9382D0_256.png"
+          },
+          "current_owner": {
+            "world_id": 1019,
+            "name": "Blackgate"
+          },
+          "previous_owner": {
+            "world_id": 1017,
+            "name": "Tarnished Coast"
+          }
+        },
+        "53": {
+          "id": 53,
+          "name": "Greenvale Refuge",
+          "points": 5,
+          "capture_time": "2013-08-03 06:08:00 GMT",
+          "time_held": "0:00:38:15",
+          "current_guild": {
+            "id": "B8BBD9A1-CB34-4BAF-8AB4-FD5B56282BAC",
+            "name": " []",
+            "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/B8BBD9A1-CB34-4BAF-8AB4-FD5B56282BAC_256.png"
+          },
+          "current_owner": {
+            "world_id": 1013,
+            "name": "Sanctum of Rall"
+          },
+          "previous_owner": {
+            "world_id": 1017,
+            "name": "Tarnished Coast"
+          }
+        }
+      }
+    }
+  },
+  "2-9": {
+    "match_id": "2-9",
+    "0": {
+      "name": "Red Borderlands",
+      "map_id": 0,
+      "objectives": {
+        "52": {
+          "id": 52,
+          "name": "Arah's Hope",
+          "points": 5,
+          "capture_time": "2013-08-03 06:10:39 GMT",
+          "time_held": "0:00:35:37",
+          "current_owner": {
+            "world_id": 2001,
+            "name": "Fissure of Woe"
+          },
+          "previous_owner": {
+            "world_id": 2011,
+            "name": "Vabbi"
+          }
+        },
+        "53": {
+          "id": 53,
+          "name": "Greenvale Refuge",
+          "points": 5,
+          "capture_time": "2013-08-03 05:59:52 GMT",
+          "time_held": "0:00:46:24",
+          "current_owner": {
+            "world_id": 2001,
+            "name": "Fissure of Woe"
+          },
+          "previous_owner": {
+            "world_id": 2011,
+            "name": "Vabbi"
+          }
+        }
+      }
+    },
+    "3": {
+      "name": "Eternal Battlegrounds",
+      "map_id": 3,
+      "objectives": {
+        "1": {
+          "id": 1,
+          "name": "Overlook",
+          "points": 25,
+          "capture_time": "2013-08-02 23:21:16 GMT",
+          "time_held": "0:07:25:00",
+          "current_owner": {
+            "world_id": 2001,
+            "name": "Fissure of Woe"
+          },
+          "previous_owner": {
+            "world_id": 2008,
+            "name": "Whiteside Ridge"
+          }
+        },
+        "22": {
+          "id": 22,
+          "name": "Bravost Escarpment",
+          "points": 10,
+          "capture_time": "2013-08-02 23:11:08 GMT",
+          "time_held": "0:07:35:08",
+          "current_owner": {
+            "world_id": 2001,
+            "name": "Fissure of Woe"
+          },
+          "previous_owner": {
+            "world_id": 2008,
+            "name": "Whiteside Ridge"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{"item_id":"39276","name":"Godrock Amulet","description":"<c=@flavor>Once an object of worship among the grawl.</c>","type":"Trinket","level":"80","rarity":"Ascended","vendor_value":"660","icon_file_id":"534255","icon_file_signature":"D33DFD0435DBDE0C0CB7381B4D51BFDB5E75EFDD","game_types":["Activity",
+"Dungeon",
+"Pve",
+"Wvw"],"flags":["AccountBound",
+"HideSuffix",
+"NoSalvage",
+"NotUpgradeable",
+"SoulBindOnUse",
+"Unique"],"restrictions":[],"trinket":{"type":"Amulet","infusion_slots":[{"flags":["Defense"]}],"infix_upgrade":{"buff":{"skill_id":"15744","description":"+32 Power\n+4% Critical Damage\n+18 Vitality"},"attributes":[{"attribute":"Power","modifier":"94"},
+{"attribute":"Precision","modifier":"67"},
+{"attribute":"CritDamage","modifier":"5"}]},"suffix_item_id":""}}

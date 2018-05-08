@@ -1,0 +1,92 @@
+{
+  "texture_dims": [
+    16384,
+    16384
+  ],
+  "clamped_view": [
+    [
+      7168,
+      7294
+    ],
+    [
+      8190,
+      8190
+    ]
+  ],
+  "regions": {
+    "6": {
+      "name": "Player vs. Player",
+      "label_coord": [
+        2560,
+        5344
+      ],
+      "maps": {
+        "900": {
+          "name": "Skyhammer",
+          "min_level": 0,
+          "max_level": 0,
+          "default_floor": 27,
+          "map_rect": [
+            [
+              -12288,
+              -6144
+            ],
+            [
+              12288,
+              9216
+            ]
+          ],
+          "continent_rect": [
+            [
+              7168,
+              7422
+            ],
+            [
+              8192,
+              8062
+            ]
+          ],
+          "points_of_interest": [
+            {
+              "poi_id": 1797,
+              "name": "Blue Team Rally Point",
+              "type": "waypoint",
+              "floor": 9,
+              "coord": [
+                7595.29,
+                7882.28
+              ]
+            },
+            {
+              "poi_id": 1798,
+              "name": "Red Team Rally Point",
+              "type": "waypoint",
+              "floor": 9,
+              "coord": [
+                7595.8,
+                7586.38
+              ]
+            }
+          ],
+          "tasks": [
+            
+          ],
+          "skill_challenges": [
+            
+          ],
+          "sectors": [
+            {
+              "sector_id": 1110,
+              "name": "",
+              "level": 0,
+              "coord": [
+                7597.26,
+                7727.95
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

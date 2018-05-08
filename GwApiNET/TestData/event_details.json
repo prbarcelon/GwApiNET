@@ -1,0 +1,95 @@
+{
+  "events": {
+    "EED8A79F-B374-4AE6-BA6F-B7B98D9D7142": {
+      "name": "Defeat the renegade charr.",
+      "level": 42,
+      "map_id": 20,
+      "flags": [
+        
+      ],
+      "location": {
+        "type": "sphere",
+        "center": [
+          -9463.6,
+          -40310.2,
+          -785.799
+        ],
+        "radius": 2500,
+        "rotation": 0
+      }
+    },
+    "41D585D0-37E6-46FB-B88B-FC1FF0AF318A": {
+      "name": "Defeat the crazed ettin and its raptor pack.",
+      "level": 38,
+      "map_id": 17,
+      "flags": [
+        
+      ],
+      "location": {
+        "type": "cylinder",
+        "center": [
+          -10750.1,
+          21801.1,
+          -2196.29
+        ],
+        "height": 1243.27,
+        "radius": 1333.37,
+        "rotation": 0
+      }
+    },
+    "EB8D67FD-8371-4E21-A934-805C025D0AF4": {
+      "name": "Use Ezoola's tool to collect ice cores needed to summon elementals for the assault.",
+      "level": 66,
+      "map_id": 22,
+      "flags": [
+        
+      ],
+      "location": {
+        "type": "poly",
+        "center": [
+          -21760.5,
+          25836.4,
+          -2266.5
+        ],
+        "z_range": [
+          -4598,
+          65
+        ],
+        "points": [
+          [
+            -25752.2,
+            19492
+          ],
+          [
+            -27360.7,
+            22336.3
+          ],
+          [
+            -26119.7,
+            26445.1
+          ],
+          [
+            -22926.1,
+            30119.1
+          ],
+          [
+            -18234.1,
+            32204.7
+          ],
+          [
+            -15935.1,
+            31763.8
+          ],
+          [
+            -16831.1,
+            23742.3
+          ],
+          [
+            -20925.2,
+            20588.2
+          ]
+        ]
+      }
+    }
+  }
+}

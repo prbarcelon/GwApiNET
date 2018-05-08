@@ -1,0 +1,7 @@
+{
+  "error": 10,
+  "product": 0,
+  "module": 3,
+  "line": 224,
+  "text": "missing guild_id or guild_name"
+}

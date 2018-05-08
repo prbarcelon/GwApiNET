@@ -1,0 +1,23 @@
+{
+  "item_id": "12862",
+  "name": "Iron Hammer Head",
+  "description": "Used to craft Hammers.",
+  "type": "CraftingMaterial",
+  "level": "0",
+  "rarity": "Basic",
+  "vendor_value": "4",
+  "icon_file_id": "63414",
+  "icon_file_signature": "EB1C07BCE542B95CD6A2CB4E4D06AF5EA0E678DD",
+  "game_types": [
+    "Activity",
+    "Dungeon",
+    "Pve",
+    "Wvw"
+  ],
+  "flags": [
+    
+  ],
+  "restrictions": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "retrieve_time": "2013-08-01 09:11:12 GMT",
+  "type": "match",
+  "match_id": "1-1",
+  "maps": [
+    {
+      "name": "Red Borderlands",
+      "map_id": 0,
+      "map_owner_id": 1017,
+      "map_owner_name": "Tarnished Coast",
+      "objectives": {
+        "32": {
+          "id": 32,
+          "name": "Etheron Hills",
+          "cardinal": "Hills",
+          "points": 25,
+          "capture_time": "2013-07-31 13:18:06 GMT",
+          "time_held": "0:19:53:06",
+          "current_owner": {
+            "world_id": 1013,
+            "name": "Sanctum of Rall",
+            "color": "BLUE"
+          },
+          "previous_owner": {
+            "world_id": 1019,
+            "name": "Blackgate"
+          }
+        }
+      }
+    }
+  ]
+}

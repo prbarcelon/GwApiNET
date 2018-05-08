@@ -1,0 +1,68 @@
+{
+  "retrieve_time": "2013-07-27 19:53:53 GMT",
+  "results": 4,
+  "na": {
+    "ratings": {
+      "1019": {
+        "world_id": 1019,
+        "world_name": "Blackgate",
+        "data": {
+          "start_rank": 1,
+          "current_rank": 1,
+          "start_rating": 2208.5315,
+          "start_deviation": 171.2073,
+          "current_deviation": 168.85605139766,
+          "volatility": 0.6975,
+          "current_rating": 2158.3811412503,
+          "evolution": -50.1503587497
+        }
+      },
+      "1001": {
+        "world_id": 1001,
+        "world_name": "Anvil Rock",
+        "data": {
+          "start_rank": 23,
+          "current_rank": 24,
+          "start_rating": 1022.4628,
+          "start_deviation": 171.1844,
+          "current_deviation": 168.01317878663,
+          "volatility": 0.7129,
+          "current_rating": 975.10682355753,
+          "evolution": -47.35597644247
+        }
+      }
+    }
+  },
+  "eu": {
+    "ratings": {
+      "2104": {
+        "world_id": 2104,
+        "world_name": "Vizunah Square [FR]",
+        "data": {
+          "start_rank": 1,
+          "current_rank": 1,
+          "start_rating": 1981.7072,
+          "start_deviation": 177.0751,
+          "current_deviation": 170.62313431175,
+          "volatility": 0.7243,
+          "current_rating": 1995.7396155154,
+          "evolution": 14.0324155154
+        }
+      },
+      "2011": {
+        "world_id": 2011,
+        "world_name": "Vabbi",
+        "data": {
+          "start_rank": 27,
+          "current_rank": 27,
+          "start_rating": 544.2875,
+          "start_deviation": 217.5728,
+          "current_deviation": 213.39244244944,
+          "volatility": 0.7939,
+          "current_rating": 587.1146264132,
+          "evolution": 42.8271264132
+        }
+      }
+    }
+  }
+}

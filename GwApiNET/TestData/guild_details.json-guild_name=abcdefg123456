@@ -1,0 +1,7 @@
+{
+  "error": 4,
+  "product": 1003,
+  "module": 2,
+  "line": 950,
+  "text": "{-1} {SqlExecute} {p_GroupIdByName}: {[Microsoft][SQL Server Native Client 10.0][SQL Server]Procedure or function p_GroupIdByName has too many arguments specified.}"
+}

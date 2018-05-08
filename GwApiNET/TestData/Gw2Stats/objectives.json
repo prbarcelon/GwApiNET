@@ -1,0 +1,1099 @@
+{
+  "retrieve_time": "2013-07-27 19:53:53 GMT",
+  "type": "match",
+  "match_id": "1-1",
+  "0": {
+    "name": "Red Borderlands",
+    "map_id": 0,
+    "map_owner_id": 1017,
+    "map_owner_name": "Tarnished Coast",
+    "objectives": {
+      "32": {
+        "id": 32,
+        "name": "Etheron Hills",
+        "points": 25,
+        "capture_time": "2013-07-27 01:23:02 GMT",
+        "time_held": "0:18:30:51",
+        "current_guild": {
+          "id": "FBEACB6E-975B-4E10-9E52-B4E140F1C3B8",
+          "name": "Gaisc\u00edoch [GSCH]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/FBEACB6E-975B-4E10-9E52-B4E140F1C3B8_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "33": {
+        "id": 33,
+        "name": "Dreaming Bay",
+        "points": 25,
+        "capture_time": "2013-07-27 01:23:36 GMT",
+        "time_held": "0:18:30:17",
+        "current_guild": {
+          "id": "CC137A08-50A0-4321-9B00-5036F00B2956",
+          "name": "Primordus Virtus [RISE]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/CC137A08-50A0-4321-9B00-5036F00B2956_256.png"
+        },
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "34": {
+        "id": 34,
+        "name": "Victor's Lodge",
+        "points": 5,
+        "capture_time": "2013-07-27 19:49:08 GMT",
+        "ri_remaining": "0:15",
+        "time_held": "0:00:04:45",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "35": {
+        "id": 35,
+        "name": "Greenbriar",
+        "points": 10,
+        "capture_time": "2013-07-27 18:20:23 GMT",
+        "time_held": "0:01:33:30",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "36": {
+        "id": 36,
+        "name": "Bluelake",
+        "points": 10,
+        "capture_time": "2013-07-27 17:04:22 GMT",
+        "time_held": "0:02:49:31",
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "37": {
+        "id": 37,
+        "name": "Garrison",
+        "points": 25,
+        "capture_time": "2013-07-27 05:24:04 GMT",
+        "time_held": "0:14:29:49",
+        "current_guild": {
+          "id": "2E0A2137-ED1B-40D2-B024-AD90ED0B452A",
+          "name": "Bank Of Coinin [BoC]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/2E0A2137-ED1B-40D2-B024-AD90ED0B452A_256.png"
+        },
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "38": {
+        "id": 38,
+        "name": "Longview",
+        "points": 10,
+        "capture_time": "2013-07-27 18:04:57 GMT",
+        "time_held": "0:01:48:56",
+        "current_guild": {
+          "id": "763BBC88-9855-44E0-B098-FFAFF707811F",
+          "name": "The Queensdale Milita [TQM]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/763BBC88-9855-44E0-B098-FFAFF707811F_256.png"
+        },
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "39": {
+        "id": 39,
+        "name": "Godsword",
+        "points": 5,
+        "capture_time": "2013-07-27 18:33:01 GMT",
+        "time_held": "0:01:20:52",
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "40": {
+        "id": 40,
+        "name": "Cliffside",
+        "points": 10,
+        "capture_time": "2013-07-27 16:46:43 GMT",
+        "time_held": "0:03:07:10",
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "50": {
+        "id": 50,
+        "name": "Bluewater Lowlands",
+        "points": 5,
+        "capture_time": "2013-07-27 19:40:41 GMT",
+        "time_held": "0:00:13:12",
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "51": {
+        "id": 51,
+        "name": "Astralhome",
+        "points": 5,
+        "capture_time": "2013-07-27 19:53:26 GMT",
+        "ri_remaining": "4:33",
+        "time_held": "0:00:00:27",
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "52": {
+        "id": 52,
+        "name": "Arah's Hope",
+        "points": 5,
+        "capture_time": "2013-07-27 19:31:27 GMT",
+        "time_held": "0:00:22:26",
+        "current_guild": {
+          "id": "416342E9-F3F3-4E40-BE43-3D2C4F984EB4",
+          "name": "Zero Negative [ZN]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/416342E9-F3F3-4E40-BE43-3D2C4F984EB4_256.png"
+        },
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "53": {
+        "id": 53,
+        "name": "Greenvale Refuge",
+        "points": 5,
+        "capture_time": "2013-07-27 19:53:04 GMT",
+        "ri_remaining": "4:11",
+        "time_held": "0:00:00:49",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      }
+    }
+  },
+  "1": {
+    "name": "Blue Borderlands",
+    "map_id": 1,
+    "map_owner_id": 1013,
+    "map_owner_name": "Sanctum of Rall",
+    "objectives": {
+      "23": {
+        "id": 23,
+        "name": "Garrison",
+        "points": 25,
+        "capture_time": "2013-07-27 01:17:07 GMT",
+        "time_held": "0:18:36:46",
+        "current_guild": {
+          "id": "D812C658-7446-441E-B2D1-9C06F5FD75A0",
+          "name": "Forward Observer Recon [FWOB]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/D812C658-7446-441E-B2D1-9C06F5FD75A0_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "24": {
+        "id": 24,
+        "name": "Champion's Demense",
+        "points": 5,
+        "capture_time": "2013-07-27 19:53:17 GMT",
+        "ri_remaining": "4:24",
+        "time_held": "0:00:00:36",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "25": {
+        "id": 25,
+        "name": "Redbriar",
+        "points": 10,
+        "capture_time": "2013-07-27 19:52:40 GMT",
+        "ri_remaining": "3:47",
+        "time_held": "0:00:01:13",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "26": {
+        "id": 26,
+        "name": "Greenlake",
+        "points": 10,
+        "capture_time": "2013-07-27 19:21:12 GMT",
+        "time_held": "0:00:32:41",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "27": {
+        "id": 27,
+        "name": "Ascension Bay",
+        "points": 25,
+        "capture_time": "2013-07-27 19:46:19 GMT",
+        "time_held": "0:00:07:34",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "28": {
+        "id": 28,
+        "name": "Dawn's Eyrie",
+        "points": 10,
+        "capture_time": "2013-07-27 13:30:41 GMT",
+        "time_held": "0:06:23:12",
+        "current_guild": {
+          "id": "1E223847-ED4E-4033-8F13-85622796EEC7",
+          "name": " []",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/1E223847-ED4E-4033-8F13-85622796EEC7_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "29": {
+        "id": 29,
+        "name": "Spiritholme",
+        "points": 5,
+        "capture_time": "2013-07-27 19:51:21 GMT",
+        "ri_remaining": "2:28",
+        "time_held": "0:00:02:32",
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "30": {
+        "id": 30,
+        "name": "Woodhaven",
+        "points": 10,
+        "capture_time": "2013-07-27 07:38:16 GMT",
+        "time_held": "0:12:15:37",
+        "current_guild": {
+          "id": "0F1E5B1C-61B2-453B-B5B4-7539A6936643",
+          "name": "Highline [HL]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/0F1E5B1C-61B2-453B-B5B4-7539A6936643_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "31": {
+        "id": 31,
+        "name": "Askalion Hills",
+        "points": 25,
+        "capture_time": "2013-07-27 19:35:59 GMT",
+        "time_held": "0:00:17:54",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "58": {
+        "id": 58,
+        "name": "Godslore",
+        "points": 5,
+        "capture_time": "2013-07-27 19:48:52 GMT",
+        "time_held": "0:00:05:01",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "59": {
+        "id": 59,
+        "name": "Redvale Refuge",
+        "points": 5,
+        "capture_time": "2013-07-27 19:41:37 GMT",
+        "time_held": "0:00:12:16",
+        "current_guild": {
+          "id": "15CEC1FA-3286-40B6-B687-1E8F80970C4D",
+          "name": "Knights Of The Temple [KnT]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/15CEC1FA-3286-40B6-B687-1E8F80970C4D_256.png"
+        },
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "60": {
+        "id": 60,
+        "name": "Stargrove",
+        "points": 5,
+        "capture_time": "2013-07-27 19:46:50 GMT",
+        "time_held": "0:00:07:03",
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "61": {
+        "id": 61,
+        "name": "Greenwater Lowlands",
+        "points": 5,
+        "capture_time": "2013-07-27 19:07:15 GMT",
+        "time_held": "0:00:46:38",
+        "current_guild": {
+          "id": "19DEA814-C307-45CD-AAE7-DD7D044A4DA4",
+          "name": "Ayothaya Sriram Thep Nakorn [SIAM]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/19DEA814-C307-45CD-AAE7-DD7D044A4DA4_256.png"
+        },
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      }
+    }
+  },
+  "2": {
+    "name": "Green Borderlands",
+    "map_id": 2,
+    "map_owner_id": 1019,
+    "map_owner_name": "Blackgate",
+    "objectives": {
+      "41": {
+        "id": 41,
+        "name": "Shadaran Hills",
+        "points": 25,
+        "capture_time": "2013-07-27 18:31:14 GMT",
+        "time_held": "0:01:22:39",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "42": {
+        "id": 42,
+        "name": "Redlake",
+        "points": 10,
+        "capture_time": "2013-07-27 19:45:54 GMT",
+        "time_held": "0:00:07:59",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "43": {
+        "id": 43,
+        "name": "Hero's Lodge",
+        "points": 5,
+        "capture_time": "2013-07-27 19:50:18 GMT",
+        "ri_remaining": "1:25",
+        "time_held": "0:00:03:35",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "44": {
+        "id": 44,
+        "name": "Dreadfall Bay",
+        "points": 25,
+        "capture_time": "2013-07-27 01:23:52 GMT",
+        "time_held": "0:18:30:01",
+        "current_guild": {
+          "id": "EC10BCBE-3188-45CC-9BE6-7B68012945D9",
+          "name": "Expert Precision Killers [XPK]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/EC10BCBE-3188-45CC-9BE6-7B68012945D9_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "45": {
+        "id": 45,
+        "name": "Bluebriar",
+        "points": 10,
+        "capture_time": "2013-07-27 08:57:12 GMT",
+        "time_held": "0:10:56:41",
+        "current_guild": {
+          "id": "28684337-0009-4B92-9381-AF3A8BC55BB0",
+          "name": "Tokyo Nights [JPN]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/28684337-0009-4B92-9381-AF3A8BC55BB0_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "46": {
+        "id": 46,
+        "name": "Garrison",
+        "points": 25,
+        "capture_time": "2013-07-26 23:34:15 GMT",
+        "time_held": "0:20:19:38",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "47": {
+        "id": 47,
+        "name": "Sunnyhill",
+        "points": 10,
+        "capture_time": "2013-07-27 19:46:13 GMT",
+        "time_held": "0:00:07:40",
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "48": {
+        "id": 48,
+        "name": "Faithleap",
+        "points": 5,
+        "capture_time": "2013-07-27 19:45:15 GMT",
+        "time_held": "0:00:08:38",
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "49": {
+        "id": 49,
+        "name": "Bluevale Refuge",
+        "points": 5,
+        "capture_time": "2013-07-27 19:48:59 GMT",
+        "ri_remaining": "0:06",
+        "time_held": "0:00:04:54",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "54": {
+        "id": 54,
+        "name": "Foghaven",
+        "points": 5,
+        "capture_time": "2013-07-27 19:52:46 GMT",
+        "ri_remaining": "3:53",
+        "time_held": "0:00:01:07",
+        "current_guild": {
+          "id": "02BC88DA-335C-41F2-92A1-C65B91538F2E",
+          "name": "The Iron Triangle [IRON]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/02BC88DA-335C-41F2-92A1-C65B91538F2E_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "55": {
+        "id": 55,
+        "name": "Redwater Lowlands",
+        "points": 5,
+        "capture_time": "2013-07-27 19:52:28 GMT",
+        "ri_remaining": "3:35",
+        "time_held": "0:00:01:25",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "56": {
+        "id": 56,
+        "name": "Titanpaw",
+        "points": 5,
+        "capture_time": "2013-07-27 19:49:58 GMT",
+        "ri_remaining": "1:05",
+        "time_held": "0:00:03:55",
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "57": {
+        "id": 57,
+        "name": "Cragtop",
+        "points": 10,
+        "capture_time": "2013-07-27 16:47:14 GMT",
+        "time_held": "0:03:06:39",
+        "current_guild": {
+          "id": "D04E248D-691A-444A-AC5F-377BAD975EFF",
+          "name": "Knock Out [KO]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/D04E248D-691A-444A-AC5F-377BAD975EFF_256.png"
+        },
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      }
+    }
+  },
+  "3": {
+    "name": "Eternal Battlegrounds",
+    "map_id": 3,
+    "objectives": {
+      "1": {
+        "id": 1,
+        "name": "Overlook",
+        "points": 25,
+        "capture_time": "2013-07-27 01:16:57 GMT",
+        "time_held": "0:18:36:56",
+        "current_guild": {
+          "id": "F987544D-0B7D-41CE-9FC8-9813C4D7451A",
+          "name": "Everything Purple [EP]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/F987544D-0B7D-41CE-9FC8-9813C4D7451A_256.png"
+        },
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1021,
+          "name": "Dragonbrand"
+        }
+      },
+      "2": {
+        "id": 2,
+        "name": "Valley",
+        "points": 25,
+        "capture_time": "2013-07-26 06:31:54 GMT",
+        "time_held": "1:13:21:59",
+        "current_guild": {
+          "id": "6E4219E4-AE86-4773-85BE-EE9C6F2F8028",
+          "name": "Noon [NooN]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/6E4219E4-AE86-4773-85BE-EE9C6F2F8028_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "3": {
+        "id": 3,
+        "name": "Lowlands",
+        "points": 25,
+        "capture_time": "2013-07-27 10:28:51 GMT",
+        "time_held": "0:09:25:02",
+        "current_guild": {
+          "id": "EFA95AED-A433-444D-A634-65F824F7FFA6",
+          "name": "Nova Core [NvC]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/EFA95AED-A433-444D-A634-65F824F7FFA6_256.png"
+        },
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "4": {
+        "id": 4,
+        "name": "Golanta Clearing",
+        "points": 5,
+        "capture_time": "2013-07-27 19:50:18 GMT",
+        "ri_remaining": "1:25",
+        "time_held": "0:00:03:35",
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "5": {
+        "id": 5,
+        "name": "Pangloss Rise",
+        "points": 5,
+        "capture_time": "2013-07-27 19:38:22 GMT",
+        "time_held": "0:00:15:31",
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "6": {
+        "id": 6,
+        "name": "Speldan Clearcut",
+        "points": 5,
+        "capture_time": "2013-07-27 19:44:49 GMT",
+        "time_held": "0:00:09:04",
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "7": {
+        "id": 7,
+        "name": "Danelon Passage",
+        "points": 5,
+        "capture_time": "2013-07-27 19:38:28 GMT",
+        "time_held": "0:00:15:25",
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "8": {
+        "id": 8,
+        "name": "Umberglade Woods",
+        "points": 5,
+        "capture_time": "2013-07-27 19:52:25 GMT",
+        "ri_remaining": "3:32",
+        "time_held": "0:00:01:28",
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "9": {
+        "id": 9,
+        "name": "Stonemist Castle",
+        "points": 35,
+        "capture_time": "2013-07-27 07:42:50 GMT",
+        "time_held": "0:12:11:03",
+        "current_guild": {
+          "id": "AEACF21E-DAAE-4D8C-B759-2B8A3AECB22C",
+          "name": "Havago At This [HGO]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/AEACF21E-DAAE-4D8C-B759-2B8A3AECB22C_256.png"
+        },
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "10": {
+        "id": 10,
+        "name": "Rogue's Quarry",
+        "points": 5,
+        "capture_time": "2013-07-27 19:53:47 GMT",
+        "ri_remaining": "4:54",
+        "time_held": "0:00:00:06",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "11": {
+        "id": 11,
+        "name": "Aldon's Ledge",
+        "points": 10,
+        "capture_time": "2013-07-27 00:36:25 GMT",
+        "time_held": "0:19:17:28",
+        "current_guild": {
+          "id": "CC137A08-50A0-4321-9B00-5036F00B2956",
+          "name": "Primordus Virtus [RISE]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/CC137A08-50A0-4321-9B00-5036F00B2956_256.png"
+        },
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "12": {
+        "id": 12,
+        "name": "Wildcreek Run",
+        "points": 10,
+        "capture_time": "2013-07-27 17:26:58 GMT",
+        "time_held": "0:02:26:55",
+        "current_guild": {
+          "id": "18E2B563-8A43-4460-9E8A-EFDB276F2F57",
+          "name": "Get Ur Now [GUN]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/18E2B563-8A43-4460-9E8A-EFDB276F2F57_256.png"
+        },
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "13": {
+        "id": 13,
+        "name": "Jerrifer's Slough",
+        "points": 10,
+        "capture_time": "2013-07-27 11:58:08 GMT",
+        "time_held": "0:07:55:45",
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "14": {
+        "id": 14,
+        "name": "Klovan Gully",
+        "points": 10,
+        "capture_time": "2013-07-27 16:22:41 GMT",
+        "time_held": "0:03:31:12",
+        "current_guild": {
+          "id": "A1F100B3-0888-4051-9478-78C6E71A3F0F",
+          "name": "Wings Of The Sun [WotS]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/A1F100B3-0888-4051-9478-78C6E71A3F0F_256.png"
+        },
+        "current_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        },
+        "previous_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        }
+      },
+      "15": {
+        "id": 15,
+        "name": "Langor Gulch",
+        "points": 10,
+        "capture_time": "2013-07-27 06:28:54 GMT",
+        "time_held": "0:13:24:59",
+        "current_guild": {
+          "id": "02BC88DA-335C-41F2-92A1-C65B91538F2E",
+          "name": "The Iron Triangle [IRON]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/02BC88DA-335C-41F2-92A1-C65B91538F2E_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "16": {
+        "id": 16,
+        "name": "Quentin Lake",
+        "points": 10,
+        "capture_time": "2013-07-27 06:50:36 GMT",
+        "time_held": "0:13:03:17",
+        "current_guild": {
+          "id": "70B5ACA7-D5FF-4F3A-AD4B-B2513A3676A5",
+          "name": "Wolfbrew Alehouse [Ale]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/70B5ACA7-D5FF-4F3A-AD4B-B2513A3676A5_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "17": {
+        "id": 17,
+        "name": "Mendon's Gap",
+        "points": 10,
+        "capture_time": "2013-07-27 19:47:29 GMT",
+        "time_held": "0:00:06:24",
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "18": {
+        "id": 18,
+        "name": "Anzalias Pass",
+        "points": 10,
+        "capture_time": "2013-07-27 19:43:14 GMT",
+        "time_held": "0:00:10:39",
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1019,
+          "name": "Blackgate"
+        }
+      },
+      "19": {
+        "id": 19,
+        "name": "Ogrewatch Cut",
+        "points": 10,
+        "capture_time": "2013-07-27 01:16:58 GMT",
+        "time_held": "0:18:36:55",
+        "current_guild": {
+          "id": "BA44725A-F0C8-43EB-BC4E-9C8A10648448",
+          "name": "The Mailed Fist [FIST]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/BA44725A-F0C8-43EB-BC4E-9C8A10648448_256.png"
+        },
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1021,
+          "name": "Dragonbrand"
+        }
+      },
+      "20": {
+        "id": 20,
+        "name": "Veloka Slope",
+        "points": 10,
+        "capture_time": "2013-07-27 01:16:58 GMT",
+        "time_held": "0:18:36:55",
+        "current_guild": {
+          "id": "09429410-8448-47F0-87E3-7E83DAF3E140",
+          "name": "The Tarnished Coastguard [TTC]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/09429410-8448-47F0-87E3-7E83DAF3E140_256.png"
+        },
+        "current_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        },
+        "previous_owner": {
+          "world_id": 1021,
+          "name": "Dragonbrand"
+        }
+      },
+      "21": {
+        "id": 21,
+        "name": "Durios Gulch",
+        "points": 10,
+        "capture_time": "2013-07-27 12:29:54 GMT",
+        "time_held": "0:07:23:59",
+        "current_guild": {
+          "id": "6E4A477A-2DC4-4E62-BE5E-2DED2CF5CE07",
+          "name": "Canadian Empire [CDN]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/6E4A477A-2DC4-4E62-BE5E-2DED2CF5CE07_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      },
+      "22": {
+        "id": 22,
+        "name": "Bravost Escarpment",
+        "points": 10,
+        "capture_time": "2013-07-27 05:52:28 GMT",
+        "time_held": "0:14:01:25",
+        "current_guild": {
+          "id": "B0B1B6C1-9E3B-4CCA-BEDB-8B2B1D9132FC",
+          "name": "Too Cool For School [TCFS]",
+          "img_url": "http:\/\/gw2stats.net\/emb\/img\/cache\/B0B1B6C1-9E3B-4CCA-BEDB-8B2B1D9132FC_256.png"
+        },
+        "current_owner": {
+          "world_id": 1013,
+          "name": "Sanctum of Rall"
+        },
+        "previous_owner": {
+          "world_id": 1017,
+          "name": "Tarnished Coast"
+        }
+      }
+    }
+  }
+}

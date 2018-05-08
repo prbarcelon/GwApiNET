@@ -1,0 +1,20 @@
+{
+  "api": {
+    "http:\/\/gw2stats.net\/api\/matches.json": {
+      "url": "http:\/\/gw2stats.net\/api\/matches.json",
+      "status": "OK",
+      "ping": 1,
+      "retrieve": 169,
+      "records": 888,
+      "time": "2013-07-26 18:38:38 GMT"
+    },
+    "http:\/\/gw2stats.net\/api\/objectives.json": {
+      "url": "http:\/\/gw2stats.net\/api\/objectives.json",
+      "status": "OK",
+      "ping": 0,
+      "retrieve": 85,
+      "records": 879,
+      "time": "2013-07-26 18:38:38 GMT"
+    }
+  }
+}

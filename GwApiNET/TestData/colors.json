@@ -1,0 +1,136 @@
+{
+  "colors": {
+    "668": {
+      "name": "Pink Ice",
+      "base_rgb": [
+        128,
+        26,
+        26
+      ],
+      "cloth": {
+        "brightness": 50,
+        "contrast": 1.36719,
+        "hue": 8,
+        "saturation": 0.351563,
+        "lightness": 1.36719,
+        "rgb": [
+          216,
+          172,
+          164
+        ]
+      },
+      "leather": {
+        "brightness": 47,
+        "contrast": 1.71875,
+        "hue": 8,
+        "saturation": 0.234375,
+        "lightness": 1.71875,
+        "rgb": [
+          207,
+          170,
+          163
+        ]
+      },
+      "metal": {
+        "brightness": 47,
+        "contrast": 1.64063,
+        "hue": 8,
+        "saturation": 0.429688,
+        "lightness": 1.48438,
+        "rgb": [
+          211,
+          145,
+          134
+        ]
+      }
+    },
+    "657": {
+      "name": "Pastel Pink",
+      "base_rgb": [
+        128,
+        26,
+        26
+      ],
+      "cloth": {
+        "brightness": 52,
+        "contrast": 1.40625,
+        "hue": 8,
+        "saturation": 0.585938,
+        "lightness": 1.40625,
+        "rgb": [
+          247,
+          170,
+          157
+        ]
+      },
+      "leather": {
+        "brightness": 52,
+        "contrast": 1.40625,
+        "hue": 8,
+        "saturation": 0.546875,
+        "lightness": 1.40625,
+        "rgb": [
+          243,
+          172,
+          159
+        ]
+      },
+      "metal": {
+        "brightness": 47,
+        "contrast": 1.5625,
+        "hue": 8,
+        "saturation": 0.546875,
+        "lightness": 1.40625,
+        "rgb": [
+          220,
+          141,
+          126
+        ]
+      }
+    },
+    "1233": {
+      "name": "Shiver Sky",
+      "base_rgb": [
+        128,
+        26,
+        26
+      ],
+      "cloth": {
+        "brightness": 42,
+        "contrast": 1.99219,
+        "hue": 200,
+        "saturation": 0.234375,
+        "lightness": 1.5625,
+        "rgb": [
+          89,
+          125,
+          143
+        ]
+      },
+      "leather": {
+        "brightness": 42,
+        "contrast": 1.83594,
+        "hue": 200,
+        "saturation": 0.195313,
+        "lightness": 1.5625,
+        "rgb": [
+          113,
+          140,
+          154
+        ]
+      },
+      "metal": {
+        "brightness": 42,
+        "contrast": 1.99219,
+        "hue": 200,
+        "saturation": 0.195313,
+        "lightness": 1.83594,
+        "rgb": [
+          115,
+          145,
+          160
+        ]
+      }
+    }
+  }
+}

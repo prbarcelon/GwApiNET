@@ -1,0 +1,153 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GwApiNET", "GwApiNET\GwApiNET.csproj", "{1F9349A9-6FBD-4344-B535-82D60D576FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GwApiNETTest", "GwApiNETTest\GwApiNETTest.csproj", "{55E53887-F02D-4DC3-BED4-A5965D297C7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestData", "TestData", "{4024B373-2372-4007-9A8D-539AC968232F}"
+	ProjectSection(SolutionItems) = preProject
+		TestData\build.json = TestData\build.json
+		TestData\colors.json = TestData\colors.json
+		TestData\continents.json = TestData\continents.json
+		TestData\event_details.json = TestData\event_details.json
+		TestData\event_names.json = TestData\event_names.json
+		TestData\events.json = TestData\events.json
+		files.json = files.json
+		TestData\items.json = TestData\items.json
+		TestData\map_names.json = TestData\map_names.json
+		TestData\maps.json = TestData\maps.json
+		TestData\recipes.json = TestData\recipes.json
+		TestData\world_names.json = TestData\world_names.json
+		TestData\wvw-matches.json = TestData\wvw-matches.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wvw", "wvw", "{6C9B5B27-B653-4AAD-8854-0F38DD18D275}"
+	ProjectSection(SolutionItems) = preProject
+		TestData\wvw\match_details.json = TestData\wvw\match_details.json
+		TestData\wvw\match_details.json_errors = TestData\wvw\match_details.json_errors
+		TestData\wvw\matches.json = TestData\wvw\matches.json
+		TestData\wvw\objective_names.json = TestData\wvw\objective_names.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UML", "UML", "{B2853409-6070-4674-8443-E6589DBC56F4}"
+	ProjectSection(SolutionItems) = preProject
+		UML\ResponseObjectFlow.uml = UML\ResponseObjectFlow.uml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gw2Stats", "Gw2Stats", "{87D986DF-80E7-4FBD-BC4A-9A962060D0C2}"
+	ProjectSection(SolutionItems) = preProject
+		TestData\Gw2Stats\matches.json = TestData\Gw2Stats\matches.json
+		TestData\Gw2Stats\objectives.json = TestData\Gw2Stats\objectives.json
+		TestData\Gw2Stats\ratings.json = TestData\Gw2Stats\ratings.json
+		TestData\Gw2Stats\status.json = TestData\Gw2Stats\status.json
+		TestData\Gw2Stats\status_codes.json = TestData\Gw2Stats\status_codes.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "~lib", "~lib", "{4D721858-39E7-48A4-9388-BDFE2AF86616}"
+	ProjectSection(SolutionItems) = preProject
+		~lib\BitFactory.dll = ~lib\BitFactory.dll
+		packages\Newtonsoft.Json.5.0.6\lib\net45\Newtonsoft.Json.dll = packages\Newtonsoft.Json.5.0.6\lib\net45\Newtonsoft.Json.dll
+		packages\Newtonsoft.Json.5.0.6\lib\net45\Newtonsoft.Json.xml = packages\Newtonsoft.Json.5.0.6\lib\net45\Newtonsoft.Json.xml
+		packages\NUnit.2.6.2\lib\nunit.framework.dll = packages\NUnit.2.6.2\lib\nunit.framework.dll
+		packages\NUnit.2.6.2\lib\nunit.framework.xml = packages\NUnit.2.6.2\lib\nunit.framework.xml
+		packages\RestSharp.104.1\lib\net4\RestSharp.dll = packages\RestSharp.104.1\lib\net4\RestSharp.dll
+		packages\RestSharp.104.1\lib\net4\RestSharp.xml = packages\RestSharp.104.1\lib\net4\RestSharp.xml
+		~lib\SLF.BitFactoryFacade.dll = ~lib\SLF.BitFactoryFacade.dll
+		~lib\SLF.dll = ~lib\SLF.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "file", "file", "{D67BF103-AFBC-4F84-A868-CAE7A3586FD5}"
+	ProjectSection(SolutionItems) = preProject
+		TestData\file\102478.png = TestData\file\102478.png
+		TestData\file\528724.jpg = TestData\file\528724.jpg
+		TestData\file\528724.png = TestData\file\528724.png
+		TestData\file\97461.png = TestData\file\97461.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E728E80A-79F7-4828-B8F4-6B8937E08BB2}"
+	ProjectSection(SolutionItems) = preProject
+		GwApiNET\AssymblyInfo.cs = GwApiNET\AssymblyInfo.cs
+		GwApiNET\template_exe.bat = GwApiNET\template_exe.bat
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{5ED1B215-4716-4E47-90B8-29824C0BFA8D}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\GwApiNETDocProject = Documentation\GwApiNETDocProject
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PositionReader", "PositionReader", "{3C87C5FC-C8B2-4BD3-8ABF-EEBEA8A0AF7D}"
+	ProjectSection(SolutionItems) = preProject
+		TestData\PositionReader\data.bin = TestData\PositionReader\data.bin
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GwApiNETExample", "GwApiNETExample\GwApiNETExample.csproj", "{C2261D50-4D3A-4CA8-BA0B-18DABBAC943D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs12
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GwApiNET\\GwApiNET.csproj
+		SccProjectName1 = GwApiNET
+		SccLocalPath1 = GwApiNET
+		SccProjectUniqueName2 = GwApiNETTest\\GwApiNETTest.csproj
+		SccProjectName2 = GwApiNETTest
+		SccLocalPath2 = GwApiNETTest
+		SccProjectUniqueName3 = GwApiNETExample\\GwApiNETExample.csproj
+		SccProjectName3 = GwApiNETExample
+		SccLocalPath3 = GwApiNETExample
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Debug|x64.ActiveCfg = Debug|x64
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Debug|x64.Build.0 = Debug|x64
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Debug|x86.ActiveCfg = Debug|x86
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Debug|x86.Build.0 = Debug|x86
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Release|x64.ActiveCfg = Release|x64
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Release|x64.Build.0 = Release|x64
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Release|x86.ActiveCfg = Release|x86
+		{1F9349A9-6FBD-4344-B535-82D60D576FCA}.Release|x86.Build.0 = Release|x86
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Debug|x64.ActiveCfg = Debug|x64
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Debug|x64.Build.0 = Debug|x64
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Debug|x86.ActiveCfg = Debug|x86
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Debug|x86.Build.0 = Debug|x86
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Release|x64.ActiveCfg = Release|x64
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Release|x64.Build.0 = Release|x64
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Release|x86.ActiveCfg = Release|x86
+		{55E53887-F02D-4DC3-BED4-A5965D297C7A}.Release|x86.Build.0 = Release|x86
+		{C2261D50-4D3A-4CA8-BA0B-18DABBAC943D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2261D50-4D3A-4CA8-BA0B-18DABBAC943D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2261D50-4D3A-4CA8-BA0B-18DABBAC943D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C2261D50-4D3A-4CA8-BA0B-18DABBAC943D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C2261D50-4D3A-4CA8-BA0B-18DABBAC943D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2261D50-4D3A-4CA8-BA0B-18DABBAC943D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2261D50-4D3A-4CA8-BA0B-18DABBAC943D}.Release|x64.ActiveCfg = Release|Any CPU
+		{C2261D50-4D3A-4CA8-BA0B-18DABBAC943D}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6C9B5B27-B653-4AAD-8854-0F38DD18D275} = {4024B373-2372-4007-9A8D-539AC968232F}
+		{87D986DF-80E7-4FBD-BC4A-9A962060D0C2} = {4024B373-2372-4007-9A8D-539AC968232F}
+		{D67BF103-AFBC-4F84-A868-CAE7A3586FD5} = {4024B373-2372-4007-9A8D-539AC968232F}
+		{3C87C5FC-C8B2-4BD3-8ABF-EEBEA8A0AF7D} = {4024B373-2372-4007-9A8D-539AC968232F}
+	EndGlobalSection
+EndGlobal

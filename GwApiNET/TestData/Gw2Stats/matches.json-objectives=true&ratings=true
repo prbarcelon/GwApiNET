@@ -1,0 +1,73 @@
+{
+  "retrieve_time": "2013-07-27 19:53:53 GMT",
+  "region": {
+    "na": [
+      {
+        "start_date": "2013-07-27 01:00:00 GMT",
+        "end_date": "2013-08-03 01:00:00 GMT",
+        "last_update": "2013-07-27 19:53:18 GMT",
+        "match_id": "1-8",
+        "unique_id": "cb6a06d46962b5f05b059126bd178e78",
+        "worlds": [
+          {
+            "world_id": 1024,
+            "name": "Eredon Terrace",
+            "color": "Red",
+            "score": 17709,
+            "ppt": 215,
+            "objectives": {
+              "camps": 9,
+              "towers": 7,
+              "keeps": 4,
+              "castles": 0
+            },
+            "rating": {
+              "start_rank": 24,
+              "current_rank": 23,
+              "start_rating": 972.9781,
+              "start_deviation": 172.66,
+              "current_deviation": 173.53140625056,
+              "volatility": 0.7139,
+              "current_rating": 997.37440857386,
+              "evolution": 24.39630857386
+            }
+          },
+        ]
+      }
+    ],
+    "eu": [
+      {
+        "start_date": "2013-07-26 18:00:00 GMT",
+        "end_date": "2013-08-02 18:00:00 GMT",
+        "last_update": "2013-07-27 19:53:46 GMT",
+        "match_id": "2-1",
+        "unique_id": "69bb8feec3ccc63da2849aac4b670eb7",
+        "worlds": [
+          {
+            "world_id": 2104,
+            "name": "Vizunah Square [FR]",
+            "color": "Red",
+            "score": 41959,
+            "ppt": 225,
+            "objectives": {
+              "camps": 9,
+              "towers": 8,
+              "keeps": 4,
+              "castles": 0
+            },
+            "rating": {
+              "start_rank": 1,
+              "current_rank": 1,
+              "start_rating": 1981.7072,
+              "start_deviation": 177.0751,
+              "current_deviation": 170.62313431175,
+              "volatility": 0.7243,
+              "current_rating": 1995.7396155154,
+              "evolution": 14.0324155154
+            }
+          },
+        ]
+      },
+    ]
+  }
+}

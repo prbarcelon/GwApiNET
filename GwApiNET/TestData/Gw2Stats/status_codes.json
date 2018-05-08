@@ -1,0 +1,25 @@
+{
+  "status_codes": {
+    "OK": {
+      "description": "No error was received : Completed successfully"
+    },
+    "UNREACHABLE": {
+      "description": "The host was unreachable : host may be down"
+    },
+    "DOWN": {
+      "description": "Host was reachable but API returned error : API may be down"
+    },
+    "PARTIAL": {
+      "description": "Only partial data was received"
+    },
+    "INCREASING PING": {
+      "description": "Ping to the API host has increased 100ms from last update"
+    },
+    "HIGH PING": {
+      "description": "Ping to the API host has reached a minimum of 750ms"
+    },
+    "SLOW RETRIEVE": {
+      "description": "API host and API are up : Data retrieval is over 3 seconds"
+    }
+  }
+}
