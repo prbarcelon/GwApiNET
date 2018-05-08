@@ -1,4 +1,4 @@
-(Project originally hosted on [Codeplex](https://gwapinet.codeplex.com/) and last updated September 13, 2013)
+(Project originally hosted on [Codeplex](https://gwapinet.codeplex.com/) and last updated September 15, 2013)
 
 **Project Description**
 This library hopes to provide an minimal abstraction from the Guild Wars 2 API using a Caching scheme to reduce network traffic and allow persistent data.
@@ -9,12 +9,12 @@ This library hopes to provide an minimal abstraction from the Guild Wars 2 API u
 * 2013 - 09 - 13: New Response Cache download added
 * 2013 - 09 - 06: New Release - Added language parameter to various api calls
 * 2013 - 09 - 04: New Release
-* 2013 - 09 - 01: Huge update to [Getting Started](Getting-Started) - contains a bunch of examples, check it out.
+* 2013 - 09 - 01: Huge update to [Getting Started](https://github.com/prbarcelon/GwApiNET/wiki/Getting-Started) - contains a bunch of examples, check it out.
 * 2013 - 08 - 28: Planned release coming soon; Includes a logging framework and code cleanup.
 * 2013 - 08 - 24: New Release posted.  Fixes a few API calls.
 * 2013 - 08 - 22: Added API Documentation generated using Doxygen. Available in html or chm format.
-	* [GwApiNETDoc.chm](Home_GwApiNETDoc.chm) (may need to Right Click > Properties and unlock if on Windows 8)
-	* [GwApiNETDoc.7z](Home_GwApiNETDoc.7z)
+	* [GwApiNETDoc.chm](https://github.com/prbarcelon/GwApiNET/blob/master/wiki/Home_GwApiNETDoc.chm) (may need to Right Click > Properties and unlock if on Windows 8)
+	* [GwApiNETDoc.7z](https://github.com/prbarcelon/GwApiNET/blob/master/wiki/Home_GwApiNETDoc.7z)
 
 
 
